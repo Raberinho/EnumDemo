@@ -8,6 +8,7 @@ namespace EnumDemo
         {
             Console.WriteLine("Hello, !");
             Console.WriteLine("Detta är version 3");
+            Console.WriteLine("fjkfdjkf");
         }   
     }
 }
